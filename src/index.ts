@@ -1,4 +1,4 @@
-//exporting all files
+//exporting all files from indexs
 export * from "./errors/bad-request-error";
 export * from "./errors/custom-error";
 export * from "./errors/database-connection-error";
